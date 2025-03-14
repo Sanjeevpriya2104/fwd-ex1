@@ -2,7 +2,7 @@
 ## Date:14.03.2025
 
 ## AIM:
-To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
+To develop a simple webserver to create a simple web page 
 
 ## DESIGN STEPS:
 ### Step 1: 
